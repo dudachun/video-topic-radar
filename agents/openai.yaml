@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Topic Radar"
+  short_description: "Find AI video topics and write plain-spoken scripts."
+  default_prompt: "Use $video-topic-radar to find today's best AI short-video topic, rank options, and write a plain-spoken script."
